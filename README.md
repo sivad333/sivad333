@@ -1,5 +1,5 @@
 -<h1> 👋 Hi, I’m Siva Kumar D</h1>
-- 🌱 I’m currently learning NodeJs , MongoDB
+- 🌱 I’m currently working on backend i.e, NodeJs, MongoDB, ExpressJs, Mongoose
 - 💞️ I’m looking to collaborate on backend web development with other passionate developers
 - 📫 How to reach me sivakumard3333@gmail.com
 
